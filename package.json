@@ -1,6 +1,6 @@
 {
   "name": "angular-promise",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "An Angular.js wrapper around Bluebird's API as $promise",
   "main": "index.js",
   "scripts": {
