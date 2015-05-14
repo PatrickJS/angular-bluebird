@@ -1,14 +1,14 @@
 {
   "name": "angular-promise",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Angular.js wrapper around Bluebird's API as $promise",
-  "main": "index.js",
+  "main": "angular-bluebird.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gdi2290/angular-bluebird.git"
+    "url": "git+https://github.com/gdi2290/angular-bluebird.git"
   },
   "author": "gdi2290 <github@gdi2290.com>",
   "license": "MIT",
